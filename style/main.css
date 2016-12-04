@@ -418,11 +418,11 @@ hr {
     background: #000000; }
 
   .tile.tile-240 .tile-inner {
-  font-size: 100px;
+  font-size: 50px;
     background: #959595; }
 
   .tile.tile-160 .tile-inner {
-  font-size: 100px;
+  font-size: 50px;
     background: #630909; }
 
   .tile .tile-inner {
