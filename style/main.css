@@ -390,18 +390,30 @@ hr {
   .tile.tile-90 .tile-inner {
   color: #ffffff;
     background: #a3df19; }
+  .tile.tile-100 .tile-inner {
+  color: #ffffff;
+    background: #A6536F }
+  .tile.tile-640 .tile-inner {
+  color: #ffffff;
+    background: #3D1A15 }
+  .tile.tile-200 .tile-inner {
+  color: #ffffff;
+    background: #8A717E }
+  .tile.tile-480 .tile-inner {
+  color: #ffffff;
+    background: #EEEEEE }
   .tile.tile-120 .tile-inner {
     background: #555750; }
 	
   .tile.tile-180 .tile-inner {
     background: #f5e265; }
 
-  .tile.tile-super3 .tile-inner {
-    background: #00ff00; }
+  .tile.tile-135 .tile-inner {
+    background: #15D35D; }
 
-  .tile.tile-super4 .tile-inner {
-    background: #00ff00; 
-	font-size: 36px;}
+  .tile.tile-1280 .tile-inner {
+    background: #F1DBDB; 
+	font-size: 25px;}
 
   .tile.tile-super5 .tile-inner {
     background: #00ff00;
