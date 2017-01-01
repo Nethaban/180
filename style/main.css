@@ -400,8 +400,20 @@ hr {
   color: #ffffff;
     background: #8A717E }
   .tile.tile-480 .tile-inner {
-  color: #ffffff;
+  color: #000000;
     background: #EEEEEE }
+  .tile.tile-360 .tile-inner {
+  color: #ffffff;
+    background: #CFB7A3 }
+  .tile.tile-960 .tile-inner {
+  color: #000000;
+    background: #F3F1CE }
+  .tile.tile-400 .tile-inner {
+  color: #ffffff;
+    background: #C19CAD }
+  .tile.tile-720 .tile-inner {
+  color: #ffffff;
+    background: #B5C19C }
   .tile.tile-120 .tile-inner {
     background: #555750; }
 	
